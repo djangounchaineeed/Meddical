@@ -22,9 +22,9 @@ body {
     margin-left: 100px;
     display: block;
     position: relative;
-    
-        top: 32px;
-        position: relative;
+
+    top: 32px;
+    position: relative;
 }
 
 .ewl {
@@ -33,13 +33,14 @@ body {
     width: 45%;
     bottom: 58px;
     margin: 26px;
-    margin-rignt: 187px;
+    margin-right: 187px;
     /* float: right; */
     position: relative;
     display: flex;
     align-content: stretch;
     align-items: baseline;
-    justify-content: space-evenly; }
+    justify-content: space-evenly;
+}
 
 
 .supheader-img {
@@ -56,14 +57,12 @@ body {
 
 }
 
-.nav {
 
+ul li a {
+    color: white;
+    text-decoration: none;
 }
- ul li a {
-color: white;
-text-decoration: none;
-}
+
 .active a {
     color: #BFD2F8;
 }
- 
